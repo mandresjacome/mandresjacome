@@ -14,7 +14,7 @@ Me interesa continuar aprendiendo, colaborar con otros desarrolladores y partici
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express
 - **Bases de datos:** PostgreSQL, Supabase
-- **Herramientas:** GitHub
+- **Herramientas:** Git y GitHub
 
 ### Proyectos
 
